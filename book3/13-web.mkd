@@ -254,7 +254,7 @@ protocolo OAuth em [www.oauth.net](http://www.oauth.net).
 Felizmente existe um número conveniente de bibliotecas OAuth gratuitas,
 para que não seja necessário desenvolver uma implementação OAuth do zero, 
 bastando apenas ler as especificações. Essa bibliotecas são de diferentes 
-níveis de complexidade e de vários degraus de “riquezas”. No site do OAuth
+níveis de complexidade e de vários graus de riqueza. No site do OAuth
 há informações sobre várias dessas bibliotecas.
 
 
